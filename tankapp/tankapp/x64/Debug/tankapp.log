@@ -1,0 +1,50 @@
+﻿  pch.cpp
+  AutoTank.cpp
+  ChildView.cpp
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(165,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(362,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(429,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(462,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(729,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(735,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/ChildView.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\ChildView.cpp(761,22): warning C4858: 正在放弃返回值: This function returns whether the operation succeeded in modifying object state. It is dangerous to ignore the return value.
+  (编译源文件“/ChildView.cpp”)
+  
+  MainFrm.cpp
+C:\Users\iwant\Desktop\tankapp\MainFrm.cpp(54,7): warning C4101: “bNameValid”: 未引用的局部变量
+  (编译源文件“/MainFrm.cpp”)
+  
+  MyObject.cpp
+  Shell.cpp
+C:\Users\iwant\Desktop\tankapp\Shell.cpp(20,38): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/Shell.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\Shell.cpp(23,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/Shell.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\Shell.cpp(26,38): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/Shell.cpp”)
+  
+C:\Users\iwant\Desktop\tankapp\Shell.cpp(29,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/Shell.cpp”)
+  
+  Tank.cpp
+C:\Users\iwant\Desktop\tankapp\Tank.cpp(11,22): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/Tank.cpp”)
+  
+  tankapp.cpp
+  Wall.cpp
+  正在生成代码...
+  tankapp.vcxproj -> C:\Users\iwant\Desktop\tankapp\x64\Debug\tankapp.exe
